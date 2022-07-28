@@ -68,7 +68,8 @@ const styles=StyleSheet.create({
         
     },
     text:{
-        color:'#FF9694'
+        color:'#FF9694',
+        fontWeight:'bold'
     }
 })
 export default NewPasswordScreen
