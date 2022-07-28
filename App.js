@@ -23,6 +23,7 @@ const App=()=>{
       
     <Navigation/>
     
+    
     </SafeAreaView>
     
   )
